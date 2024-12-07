@@ -1,10 +1,12 @@
 
 
-# Independent Calculator: A User-Friendly Web App
+# Independent Calculator: A User-Friendly Web App #
 
-## Introduction
+## Introduction ##
 
 Welcome to the **Independent Calculator** project! This calculator is a simple web tool designed to help you with basic math operations like addition, subtraction, multiplication, division, percentages, squares, cubes, and square roots. It's a handy tool for quick calculations without the need for a physical calculator.
+
+
 ---
 
 ## 🚀 Live Site
