@@ -1,4 +1,5 @@
 
+
 # Independent Calculator: A User-Friendly Web App
 
 ## 🚀 Live Site
@@ -103,4 +104,15 @@ Below is the file structure of the project, which provides an overview of how th
 | 1  | `index.html`    | The entry point of the web application, containing HTML structure and elements. |
 | 2  | `style.css`     | Contains all the styles for the calculator layout, colors, fonts, and design. |
 | 3  | `script.js`     | Handles all JavaScript functions for the calculator operations and interactions. |
-| 4  | `assets/`       | Directory 
+| 4  | `assets/`       | Directory for any image assets, including the logo image and other static files. |
+
+---
+
+## 🔧 Build
+
+### Instructions to Build:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/independent-calculator.git
