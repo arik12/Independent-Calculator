@@ -1,3 +1,5 @@
+
+
 # Independent Calculator: A User-Friendly Web App
 
 ![Logo](path-to-your-logo.jpg)
@@ -39,7 +41,8 @@ Welcome to the **Independent Calculator** project! This web application offers a
 5. [Usage](#usage)
 6. [Logo](#logo)
 7. [Live Site](#live-site)
-8. [Conclusion](#conclusion)
+8. [File Structure](#file-structure)
+9. [Conclusion](#conclusion)
 
 ---
 
@@ -94,21 +97,24 @@ Replace `path-to-your-logo.jpg` with the actual image path to your project logo.
 
 ---
 
-## 💬 Conclusion
+## 🗂 File Structure
 
-The **Independent Calculator** is a simple yet powerful web application that helps users quickly perform common mathematical operations. It provides a user-friendly interface with clean prompts and clear results, making it a great tool for personal use or learning purposes.
+Below is the file structure of the project, which provides an overview of how the files are organized:
 
-Feel free to customize the project or contribute by adding new features. Thanks for checking out the **Independent Calculator**!
-
----
-
-### 🙏 Credits
-
-- **Author**: [Your Name]
-- **Logo**: [Credits for the logo, if applicable]
+| No | File Name       | Details                                                       |
+|----|-----------------|---------------------------------------------------------------|
+| 1  | `index.html`    | The entry point of the web application, containing HTML structure and elements. |
+| 2  | `style.css`     | Contains all the styles for the calculator layout, colors, fonts, and design. |
+| 3  | `script.js`     | Handles all JavaScript functions for the calculator operations and interactions. |
+| 4  | `assets/`       | Directory for any image assets, including the logo image and other static files. |
 
 ---
 
-### 📝 License
+## 🔧 Build
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Instructions to Build:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/independent-calculator.git
