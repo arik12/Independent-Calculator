@@ -4,7 +4,7 @@
 
 ## 🚀 Live Site
 
-Check out the live version of the calculator app: [Live Demo](#) (Insert your live demo link here)
+Check out the live version of the calculator app: [Live Demo](#https://arik203.github.io/Independent-Calculator/) (Insert your live demo link here)
 
 ---
 
@@ -37,10 +37,9 @@ Welcome to the **Independent Calculator** project! This web application offers a
 3. [Technologies Used](#technologies-used)
 4. [Further Enhancements](#further-enhancements)
 5. [Usage](#usage)
-6. [Logo](#logo)
-7. [Live Site](#live-site)
-8. [File Structure](#file-structure)
-9. [Conclusion](#conclusion)
+6. [Live Site](#live-site)
+7. [File Structure](#file-structure)
+8. [Conclusion](#conclusion)
 
 ---
 
@@ -87,13 +86,6 @@ This project can be expanded with additional features:
 
 ---
 
-## 🖼 Logo
-
-![Logo](path-to-your-logo.jpg)
-
-Replace `path-to-your-logo.jpg` with the actual image path to your project logo.
-
----
 
 ## 🗂 File Structure
 
@@ -116,3 +108,12 @@ Below is the file structure of the project, which provides an overview of how th
 
    ```bash
    git clone https://github.com/your-username/independent-calculator.git
+
+
+## 📬 Contact Information
+
+If you have any questions or feedback, feel free to reach out to me:
+
+- Email: [your-email@example.com]
+- GitHub: [https://github.com/your-username]
+- LinkedIn: [https://linkedin.com/in/your-profile]
