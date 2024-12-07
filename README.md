@@ -4,8 +4,7 @@
 
 ## Introduction
 
-Welcome to the **Independent Calculator** project! This web application offers a simple, intuitive, and user-friendly interface for performing basic mathematical operations. Whether you're adding, subtracting, multiplying, dividing, or performing more complex functions like square roots, this calculator has got you covered!
-
+Welcome to the **Independent Calculator** project! This calculator is a simple web tool designed to help you with basic math operations like addition, subtraction, multiplication, division, percentages, squares, cubes, and square roots. It's a handy tool for quick calculations without the need for a physical calculator.
 ---
 
 ## 🚀 Live Site
@@ -26,6 +25,14 @@ This web application provides a **clean and intuitive interface** designed to pe
 - **Visual separators** between calculations for better readability.
 - A **Thank You message** displayed after completing the calculations.
 - **Author Information** to give credit to the creator.
+
+---
+
+
+## Getting Started:
+
+**Save the Code:** Download or copy the provided HTML code and save it as a file named index.html within your project directory.
+**Open in Browser:** Open index.html in your web browser to launch the calculator.
 
 ---
 
@@ -84,4 +91,4 @@ If you have any questions or feedback, feel free to reach out to me:
 
 Email: [your-email@example.com]
 GitHub: [https://github.com/your-username]
-LinkedIn: [https://linkedin.com/in/your-profile]
+LinkedIn: [https://linkedin.com/in/your-profile] 
