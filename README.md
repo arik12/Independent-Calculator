@@ -34,13 +34,12 @@ Welcome to the **Independent Calculator** project! This web application offers a
 
 1. [Introduction](#introduction)
 2. [About](#about)
-3. [Source Code](#source-code)
-4. [Technologies Used](#technologies-used)
-5. [Further Enhancements](#further-enhancements)
-6. [Usage](#usage)
-7. [Logo](#logo)
-8. [Live Site](#live-site)
-9. [Conclusion](#conclusion)
+3. [Technologies Used](#technologies-used)
+4. [Further Enhancements](#further-enhancements)
+5. [Usage](#usage)
+6. [Logo](#logo)
+7. [Live Site](#live-site)
+8. [Conclusion](#conclusion)
 
 ---
 
@@ -59,9 +58,57 @@ This web application provides a **clean and intuitive interface** designed to pe
 
 ---
 
-## 💻 Source Code
+## 🛠 Technologies Used
 
-Here is the core HTML structure for the calculator:
+- **HTML**: Provides the structure of the webpage.
+- **CSS**: Defines the visual styling, including layout, colors, and text formatting.
+- **JavaScript**: Handles the functionality, user interactions, calculations, and displaying results.
 
-```html
-<!-- Insert your HTML code for the calculator here -->
+---
+
+## 🚀 Further Enhancements
+
+This project can be expanded with additional features:
+
+- **Error Handling**: Validate input to ensure only numeric values are entered.
+- **Advanced Operations**: Add more complex functions such as trigonometric operations.
+- **Scientific Notation**: Display results in scientific notation for large or small numbers.
+- **Memory Functionality**: Allow users to store and recall previous calculations.
+- **Theme Options**: Implement dark/light mode toggle for user preference.
+
+---
+
+## 📝 Usage
+
+1. **Download the Code**: Copy the provided HTML, CSS, and JavaScript code and save it in your project directory as `index.html`.
+2. **Launch the Calculator**: Open `index.html` in any web browser to start using the calculator.
+3. **Customization**: Feel free to update the color scheme and logo in the `CSS` file for personalized styling.
+
+---
+
+## 🖼 Logo
+
+![Logo](path-to-your-logo.jpg)
+
+Replace `path-to-your-logo.jpg` with the actual image path to your project logo.
+
+---
+
+## 💬 Conclusion
+
+The **Independent Calculator** is a simple yet powerful web application that helps users quickly perform common mathematical operations. It provides a user-friendly interface with clean prompts and clear results, making it a great tool for personal use or learning purposes.
+
+Feel free to customize the project or contribute by adding new features. Thanks for checking out the **Independent Calculator**!
+
+---
+
+### 🙏 Credits
+
+- **Author**: [Your Name]
+- **Logo**: [Credits for the logo, if applicable]
+
+---
+
+### 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
