@@ -88,7 +88,7 @@ Below is the file structure of the project, which provides an overview of how th
    ```bash
    git clone https://github.com/your-username/independent-calculator.git
 
-📬 Contact Information
+📬 Contact Information:
 If you have any questions or feedback, feel free to reach out to me:
 
 Email: [your-email@example.com]
