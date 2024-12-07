@@ -2,44 +2,15 @@
 
 # Independent Calculator: A User-Friendly Web App
 
-## 🚀 Live Site
-
-Check out the live version of the calculator app: [Live Demo](#https://arik203.github.io/Independent-Calculator/) (Insert your live demo link here)
-
----
-
 ## Introduction
 
 Welcome to the **Independent Calculator** project! This web application offers a simple, intuitive, and user-friendly interface for performing basic mathematical operations. Whether you're adding, subtracting, multiplying, dividing, or performing more complex functions like square roots, this calculator has got you covered!
 
-### Features:
-- **Addition (+)**
-- **Subtraction (-)**
-- **Multiplication (*)**
-- **Division (/)**
-- **Percentage (%)**
-- **Square (x²)**
-- **Cube (x³)**
-- **Square Root (√)**
-- **Clear and concise interface**
-- **User-friendly input prompts**
-- **Detailed output with labels**
-- **Visual separators for better readability**
-- **Thank you message at the end of the interaction**
-- **Author credit section**
-
 ---
 
-## 🗂 Index
+## 🚀 Live Site
 
-1. [Introduction](#introduction)
-2. [About](#about)
-3. [Technologies Used](#technologies-used)
-4. [Further Enhancements](#further-enhancements)
-5. [Usage](#usage)
-6. [Live Site](#live-site)
-7. [File Structure](#file-structure)
-8. [Conclusion](#conclusion)
+Check out the live version of the calculator app: [Live Demo](https://arik203.github.io/Independent-Calculator/)
 
 ---
 
@@ -86,7 +57,6 @@ This project can be expanded with additional features:
 
 ---
 
-
 ## 🗂 File Structure
 
 Below is the file structure of the project, which provides an overview of how the files are organized:
@@ -109,11 +79,9 @@ Below is the file structure of the project, which provides an overview of how th
    ```bash
    git clone https://github.com/your-username/independent-calculator.git
 
-
-## 📬 Contact Information
-
+📬 Contact Information
 If you have any questions or feedback, feel free to reach out to me:
 
-- Email: [your-email@example.com]
-- GitHub: [https://github.com/your-username]
-- LinkedIn: [https://linkedin.com/in/your-profile]
+Email: [your-email@example.com]
+GitHub: [https://github.com/your-username]
+LinkedIn: [https://linkedin.com/in/your-profile]
