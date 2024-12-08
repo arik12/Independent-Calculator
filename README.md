@@ -11,7 +11,7 @@ Welcome to the **Independent Calculator** project! This calculator is a simple w
 
 ## 🚀 Live Site
 
-![Calculator Preview Image](![independentCalculator](https://github.com/user-attachments/assets/4f3f5bfd-fdda-4c3e-a3d2-f7e57743a315)
+(https://github.com/user-attachments/assets/4f3f5bfd-fdda-4c3e-a3d2-f7e57743a315)
 
 
 
