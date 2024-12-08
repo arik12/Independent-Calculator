@@ -1,6 +1,6 @@
 
 
-# Independent Calculator: A User-Friendly Web App #
+# Independent Calculator #
 
 ## Introduction ##
 
