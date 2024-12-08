@@ -11,7 +11,17 @@ Welcome to the **Independent Calculator** project! This calculator is a simple w
 
 ## 🚀 Live Site
 
+
+![Calculator Preview Image](https://user-images.githubusercontent.com/44538497/169086855-bd20e6e0-3675-4db6-b086-0298005973f4.png)
+
+
+
+
 Check out the live version of the calculator app: [Live Demo](https://arik203.github.io/Independent-Calculator/)
+
+
+
+
 
 ---
 
