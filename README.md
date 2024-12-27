@@ -100,6 +100,5 @@ Below is the file structure of the project, which provides an overview of how th
 📬 Contact Information:
 If you have any questions or feedback, feel free to reach out to me:
 
-Email: [your-email@example.com]
-GitHub: [https://github.com/your-username]
-LinkedIn: [https://linkedin.com/in/your-profile] 
+Email: [asadarik3003@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/as-ad-arik-azad-8891a5209/] 
