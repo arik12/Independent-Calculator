@@ -9,19 +9,6 @@ Welcome to the **Independent Calculator** project! This calculator is a simple w
 
 ---
 
-
-
-
-
-
-Check out the live version of the calculator app: [Live Demo](https://arik203.github.io/Independent-Calculator/)
-
-
-
-
-
----
-
 ## 📚 About
 
 ### Project Overview:
