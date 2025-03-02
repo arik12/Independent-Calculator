@@ -9,9 +9,7 @@ Welcome to the **Independent Calculator** project! This calculator is a simple w
 
 ---
 
-## 🚀 Live Site
 
-![](https://github.com/user-attachments/assets/4f3f5bfd-fdda-4c3e-a3d2-f7e57743a315)
 
 
 
@@ -88,16 +86,7 @@ Below is the file structure of the project, which provides an overview of how th
 
 ---
 
-## 🔧 Build
-
-### Instructions to Build:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/independent-calculator.git
-
-📬 Contact Information:
+## 📬 Contact Information
 If you have any questions or feedback, feel free to reach out to me:
 
 Email: [asadarik3003@gmail.com]
